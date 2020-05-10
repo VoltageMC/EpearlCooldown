@@ -1,10 +1,10 @@
 name: EpearlCooldown
 
-main: max\Main
+main: plugin\Main
 
 version: 1.0.0
 
 api: 3.0.0
 
-author: ItsMax123
+author: ItsMax123/xSuper
 
